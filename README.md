@@ -11,3 +11,5 @@
 |Day 2|December 17, 2020| Studied MySQL | Familiarization to MVC Software Design Pattern|
 |Day 3|December 18, 2020| Answered Some Problem Set | Collaborated with fellow interns and looked for better Solutions|
 |Day 4|December 19, 2020| Meeting fellow Interns | Discussed about SQL and GIT|
+|Day 5|December 20, 2020| Rest Day | :zzz: |
+|Day 6|December 21, 2020| Modified a Website | Used SQL commands to retrieve data and used it in the site |
