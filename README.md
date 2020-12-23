@@ -14,3 +14,4 @@
 |Day 5|December 20, 2020| Rest Day | :zzz: |
 |Day 6|December 21, 2020| Modified a Website | Used SQL commands to retrieve data and used it in the site |
 |Day 7|December 22, 2020| Added a feature to a Website | Created the View, Model, and Controller|
+|Day 8|December 23, 2020| Connected Database | Used MVC software design pattern in adding website feature |
