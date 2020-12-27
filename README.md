@@ -18,3 +18,4 @@
 |Day 9|December 24, 2020| Setup Git Repo | Enhanced web application editing feature |
 |Day 10|December 25, 2020| Holiday | Christmas :christmas_tree: |
 |Day 11|December 26, 2020| Added feature on Website | Input and Select connected to Database |
+|Day 12|December 27, 2020| Added feature on Website | Developed a JavaScript code for handling database |
