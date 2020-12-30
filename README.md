@@ -20,3 +20,5 @@
 |Day 11|December 26, 2020| Added feature on Website | Input and Select connected to Database |
 |Day 12|December 27, 2020| Added feature on Website | Developed a JavaScript code for handling database |
 |Day 13|December 28, 2020| Fixed Some Bugs | Had a meeting with miss and talked about code implementation |
+|Day 14|December 29, 2020| Creatign a whole new web page | Created the view, controller, model from scratch |
+|Day 15|December 30, 2020| Holiday | New Year |
