@@ -22,3 +22,4 @@
 |Day 13|December 28, 2020| Fixed Some Bugs | Had a meeting with miss and talked about code implementation |
 |Day 14|December 29, 2020| Creatign a whole new web page | Created the view, controller, model from scratch |
 |Day 15|December 30, 2020| Holiday | New Year |
+|Day 15|December 31, 2020| Added FullCalendar Library and Intgerated it with the website | New Year |
