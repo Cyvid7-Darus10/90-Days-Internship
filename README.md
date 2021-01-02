@@ -24,3 +24,4 @@
 |Day 15|December 30, 2020| Holiday | New Year |
 |Day 15|December 31, 2020| Added FullCalendar Library and Intgerated it with the website | New Year |
 |Day 16|January 1, 2020| Created the fetch, javacript and view for scheduling | Redesigned the button and look of the FullCalendar |
+|Day 17|January 2, 2020| Improve the look and design | Changed the colors and added more information for customers |
