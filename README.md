@@ -26,3 +26,4 @@
 |Day 16|January 1, 2020| Created the fetch, javacript and view for scheduling | Redesigned the button and look of the FullCalendar |
 |Day 17|January 2, 2020| Improve the look and design | Changed the colors and added more information for customers |
 |Day 18|January 3, 2020| Rest Day | :zzz: |
+|Day 19|January 4, 2020| Each interns were individually tasked | Tasked with doing the frontend of a working Website |
