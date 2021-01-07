@@ -28,3 +28,5 @@
 |Day 18|January 3, 2020| Rest Day | :zzz: |
 |Day 19|January 4, 2020| Each interns were individually tasked | Tasked with doing the frontend of a working Website |
 |Day 20|January 5, 2020| Created the Client's Lobby | Created a view and controller for the Lobby |
+|Day 21|January 6, 2020| Made the website live view Cpanel | Added some new view that is connected to the main view |
+|Day 20|January 7, 2020| Attended the meeting where the website is presented | Clients like it |
