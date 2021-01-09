@@ -31,3 +31,4 @@
 |Day 21|January 6, 2020| Made the website live view Cpanel | Added some new view that is connected to the main view |
 |Day 20|January 7, 2020| Attended the meeting where the website is presented | Clients like it |
 |Day 20|January 8, 2020| Created a Photobooth | Used merge-images and image-selector |
+|Day 21|January 9, 2020| Group Meeting with the Team | Attended a client meeting and Client's introduction to Software |
