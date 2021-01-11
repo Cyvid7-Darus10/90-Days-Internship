@@ -32,3 +32,4 @@
 |Day 20|January 7, 2020| Attended the meeting where the website is presented | Clients like it |
 |Day 20|January 8, 2020| Created a Photobooth | Used merge-images and image-selector |
 |Day 21|January 9, 2020| Group Meeting with the Team | Attended a client meeting and Client's introduction to Software |
+|Day 22|January 10, 2020| Rest Day | :zzz: |
