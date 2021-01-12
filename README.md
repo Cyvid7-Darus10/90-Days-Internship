@@ -33,3 +33,5 @@
 |Day 20|January 8, 2020| Created a Photobooth | Used merge-images and image-selector |
 |Day 21|January 9, 2020| Group Meeting with the Team | Attended a client meeting and Client's introduction to Software |
 |Day 22|January 10, 2020| Rest Day | :zzz: |
+|Day 23|January 11, 2020| Integrated the FB/Google login/register to a PHP website | Created apps in FB and Google developer website |
+|Day 24|January 12, 2020| Added a feature to Admin sit | Clients can upload frames where delegates can use in Photobooth |
