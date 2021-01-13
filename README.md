@@ -34,4 +34,5 @@
 |Day 21|January 9, 2020| Group Meeting with the Team | Attended a client meeting and Client's introduction to Software |
 |Day 22|January 10, 2020| Rest Day | :zzz: |
 |Day 23|January 11, 2020| Integrated the FB/Google login/register to a PHP website | Created apps in FB and Google developer website |
-|Day 24|January 12, 2020| Added a feature to Admin sit | Clients can upload frames where delegates can use in Photobooth |
+|Day 24|January 12, 2020| Added a feature to Admin site | Clients can upload frames where delegates can use in Photobooth |
+|Day 25|January 13, 2020| Added another feature | Auto Login and made the frames Dynamic |
