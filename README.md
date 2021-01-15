@@ -37,3 +37,4 @@
 |Day 24|January 12, 2020| Added a feature to Admin site | Clients can upload frames where delegates can use in Photobooth |
 |Day 25|January 13, 2020| Added another feature | Auto Login and made the frames Dynamic |
 |Day 26|January 14, 2020| Made a chat sytem inside the website | The messages are recieved in the database |
+|Day 27|January 15, 2020| Connected two website's chat system | There is two websites, first is for admin use, second is for customers |
