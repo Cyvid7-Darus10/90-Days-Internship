@@ -41,3 +41,5 @@
 |Day 28|January 16, 2020| Added a item click counter | The timestamp of clicking and closing is recorded for data analysis |
 |Day 29|January 17, 2020| Rest Day | :zzz: |
 |Day 30|January 18, 2020| Attached a Game via iFrame | Fixed some bugs and added features like auto scroll down upon sending message and created screen loader |
+|Day 31|January 19, 2020| Made the Game booth Dynamic | The game can now be changed using the admin site, also adde more detailes to the site like checkbox for agreement |
+|Day 32|January 20, 2020| Attacehd the survey Form and made other booths Dynamic| Did a quick fix to the site before the meeting for presentation started |
