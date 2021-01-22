@@ -44,3 +44,4 @@
 |Day 31|January 19, 2020| Made the Game booth Dynamic | The game can now be changed using the admin site, also adde more detailes to the site like checkbox for agreement |
 |Day 32|January 20, 2020| Attacehd the survey Form and made other booths Dynamic| Did a quick fix to the site before the meeting for presentation started |
 |Day 33|January 21, 2020| Used API to connect game to the website for scoring | Also did a more precise status check by creating session timer |
+|Day 34|January 22, 2020| Refactored some code and improved the database structure | The new database structure has improved the the query speed |
