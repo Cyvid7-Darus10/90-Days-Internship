@@ -45,3 +45,9 @@
 |Day 32|January 20, 2020| Attacehd the survey Form and made other booths Dynamic| Did a quick fix to the site before the meeting for presentation started |
 |Day 33|January 21, 2020| Used API to connect game to the website for scoring | Also did a more precise status check by creating session timer |
 |Day 34|January 22, 2020| Refactored some code and improved the database structure | The new database structure has improved the the query speed |
+|Day 35|January 23, 2020| Used API to connect to game server and send the player's data | Made the website dynamic|
+|Day 36|January 24, 2020| Rest Day | :zzz: |
+|Day 37|January 25, 2020| Started a new Porject | Old project is restructured including the database |
+|Day 38|January 26, 2020| Created a counter for specific frame | Created a session checker to avoid multiple logins |
+|Day 37|January 27, 2020| Made the login and registration form; Used API to send email and SMS | Created a js backed that enables button when all fields are filled |
+|Day 38|January 28, 2020| Redesigned the photobooth | Made changes to admin site where table can be downloaded in excel file|
