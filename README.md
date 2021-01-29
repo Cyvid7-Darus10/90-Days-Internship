@@ -51,3 +51,4 @@
 |Day 38|January 26, 2020| Created a counter for specific frame | Created a session checker to avoid multiple logins |
 |Day 37|January 27, 2020| Made the login and registration form; Used API to send email and SMS | Created a js backed that enables button when all fields are filled |
 |Day 38|January 28, 2020| Redesigned the photobooth | Made changes to admin site where table can be downloaded in excel file|
+|Day 39|January 29, 2020| Made views in admin that shows the querries result | Used sql to make queries to database |
