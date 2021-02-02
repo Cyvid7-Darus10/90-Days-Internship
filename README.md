@@ -53,5 +53,6 @@
 |Day 38|January 28, 2020| Redesigned the photobooth | Made changes to admin site where table can be downloaded in excel file|
 |Day 39|January 29, 2020| Made views in admin that shows the querries result | Used sql to make queries to database |
 |Day 40|January 30, 2020| Changed the buttons | Early break |
-|Day 41|February 1, 2020| Rest Day | :zzz: |
-|Day 42|February 2, 2020| Added new functions in admin site for adding registrations | Redesigned the site to be compatible with mobile |
+|Day 41|January 31, 2020| Rest Day | :zzz: |
+|Day 42|February 1, 2020| Added new functions in admin site for adding registrations | Redesigned the site to be compatible with mobile |
+|Day 43|February 2, 2020| Added a webinar starter | The webinar can only be opened on the stated time in admin site |
