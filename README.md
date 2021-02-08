@@ -56,3 +56,9 @@
 |Day 41|January 31, 2020| Rest Day | :zzz: |
 |Day 42|February 1, 2020| Added new functions in admin site for adding registrations | Redesigned the site to be compatible with mobile |
 |Day 43|February 2, 2020| Added a webinar starter | The webinar can only be opened on the stated time in admin site |
+|Day 44|February 3, 2020| Made changes to the admin site | Added reporting that uses sql queries |
+|Day 45|February 4, 2020| Created a more entertaining photobooth | The photobooth uses frame during the take of photo |
+|Day 46|February 5, 2020| The Day of Fernc-Kidz Event | The event was succesfull after deploying last minute changes to the sites such as survey form |
+|Day 47|February 6, 2020| Rest Day | :zzz: |
+|Day 48|February 7, 2020| Rest Day | :zzz: |
+|Day 49|February 8, 2020| Added a webinar starter | The webinar can only be opened on the stated time in admin site |
