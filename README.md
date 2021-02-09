@@ -62,3 +62,4 @@
 |Day 47|February 6, 2020| Rest Day | :zzz: |
 |Day 48|February 7, 2020| Rest Day | :zzz: |
 |Day 49|February 8, 2020| Added a webinar starter | The webinar can only be opened on the stated time in admin site |
+|Day 50|February 9, 2020| Started a new Project for PIDSP| Restructured the code from wishcraft and fernc-kidz |
