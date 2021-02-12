@@ -63,3 +63,6 @@
 |Day 48|February 7, 2020| Rest Day | :zzz: |
 |Day 49|February 8, 2020| Added a webinar starter | The webinar can only be opened on the stated time in admin site |
 |Day 50|February 9, 2020| Started a new Project for PIDSP| Restructured the code from wishcraft and fernc-kidz |
+|Day 51|February 10, 2020| Developed a dynamic view quizzes that shows answer upon submit| Made the site responsive |
+|Day 52|February 11, 2020| Took a vecation sponsored by Miss | Location: Bajan |
+|Day 53|February 12, 2020| Made a checker for winners and answers | Created the admin site for the new project |
