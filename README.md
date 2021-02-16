@@ -66,7 +66,8 @@
 |Day 51|February 10, 2020| Developed a dynamic view quizzes that shows answer upon submit| Made the site responsive |
 |Day 52|February 11, 2020| Took a vecation sponsored by Miss | Location: Bajan |
 |Day 53|February 12, 2020| Made a checker for winners and answers | Created the admin site for the new project |
-|Day 53|February 13, 2020| Deployed the live server while fixing newly found bugs |  |
-|Day 53|February 14, 2020| Rest Day | :zzz: |
-|Day 53|February 15, 2020| Started a new Project Alpha Camp and the PIDSP start of Event | Created the homepage and experts lab |
+|Day 54|February 13, 2020| Deployed the live server while fixing newly found bugs |  |
+|Day 55|February 14, 2020| Rest Day | :zzz: |
+|Day 56|February 15, 2020| Started a new Project Alpha Camp and the PIDSP start of Event | Created the homepage and experts lab |
+|Day 57|February 16, 2020| Building a new Photobooth | Made a view that is responsive |
 
