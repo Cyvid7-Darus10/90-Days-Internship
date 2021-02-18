@@ -71,4 +71,4 @@
 |Day 56|February 15, 2020| Started a new Project Alpha Camp and the PIDSP start of Event | Created the homepage and experts lab |
 |Day 57|February 16, 2020| Building a new Photobooth | Made a view that is responsive |
 |Day 58|February 17, 2020| Learned more on how to make a site responsive using media query | Used canvas to attach text to Image |
-
+|Day 58|February 18, 2020| Created a Time Checker for buttons | The buttons is clickable depending on what they you are assigned to |
