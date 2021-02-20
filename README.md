@@ -72,3 +72,4 @@
 |Day 57|February 16, 2020| Building a new Photobooth | Made a view that is responsive |
 |Day 58|February 17, 2020| Learned more on how to make a site responsive using media query | Used canvas to attach text to Image |
 |Day 58|February 18, 2020| Created a Time Checker for buttons | The buttons is clickable depending on what they you are assigned to |
+|Day 59|February 19, 2020| Created a Time based element that will only show up to certain people at certain time | |
