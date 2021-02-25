@@ -73,3 +73,8 @@
 |Day 58|February 17, 2020| Learned more on how to make a site responsive using media query | Used canvas to attach text to Image |
 |Day 58|February 18, 2020| Created a Time Checker for buttons | The buttons is clickable depending on what they you are assigned to |
 |Day 59|February 19, 2020| Created a Time based element that will only show up to certain people at certain time | |
+|Day 60|February 20, 2020| Made a click reports to the page using SQL| Made updates to the site based on client's design |
+|Day 61|February 21, 2020| Rest Day | :zzz: Got Sick |
+|Day 62|February 22, 2020| Made a checker for when a video is completely watched | Made changes to db and added time input to admin site for webinar and video link |
+|Day 63|February 23, 2020| Created an animation for points | Made a view that shows the task that were finished and prize that can be claimed |
+|Day 64|February 24, 2020| Did a walkthrough to the site | Fixed some bugs and updated the design |
