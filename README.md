@@ -78,3 +78,5 @@
 |Day 62|February 22, 2020| Made a checker for when a video is completely watched | Made changes to db and added time input to admin site for webinar and video link |
 |Day 63|February 23, 2020| Created an animation for points | Made a view that shows the task that were finished and prize that can be claimed |
 |Day 64|February 24, 2020| Did a walkthrough to the site | Fixed some bugs and updated the design |
+|Day 65|February 25, 2020| Made a point recorder depending on the given criteria | |
+|Day 66|February 26, 2020| Deployed the site and did a test for mobile and website | |
