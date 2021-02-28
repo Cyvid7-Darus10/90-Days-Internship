@@ -80,3 +80,6 @@
 |Day 64|February 24, 2020| Did a walkthrough to the site | Fixed some bugs and updated the design |
 |Day 65|February 25, 2020| Made a point recorder depending on the given criteria | |
 |Day 66|February 26, 2020| Deployed the site and did a test for mobile and website | |
+|Day 67|February 27, 2020| Bug hunting | |
+|Day 68|February 28, 2020| Did a walkthrough in mobile and desktop for compatibility check | |
+|Day 69|February 29, 2020| Rest Day | :zzz: |
