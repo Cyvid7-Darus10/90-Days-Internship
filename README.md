@@ -82,4 +82,6 @@
 |Day 66|February 26, 2020| Deployed the site and did a test for mobile and website | |
 |Day 67|February 27, 2020| Bug hunting | |
 |Day 68|February 28, 2020| Did a walkthrough in mobile and desktop for compatibility check | |
-|Day 69|February 29, 2020| Rest Day | :zzz: |
+|Day 69|March 1, 2020| Rest Day | :zzz: |
+|Day 70|March 2, 2020| First Day of School; Fixed device related bugs for websites | Collaborated with my fellow intern in testing the site |
+|Day 71|March 3, 2020| Added a chatbot cold tideos | Fixed bugs again |
