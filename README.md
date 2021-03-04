@@ -84,4 +84,5 @@
 |Day 68|February 28, 2020| Did a walkthrough in mobile and desktop for compatibility check | |
 |Day 69|March 1, 2020| Rest Day | :zzz: |
 |Day 70|March 2, 2020| First Day of School; Fixed device related bugs for websites | Collaborated with my fellow intern in testing the site |
-|Day 71|March 3, 2020| Added a chatbot cold tideos | Fixed bugs again |
+|Day 71|March 3, 2020| Added a chatbot called tideos | Fixed bugs again |
+|Day 72|March 4, 2020| Deployed the site for testing | Fixed bugs again |
