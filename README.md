@@ -86,3 +86,4 @@
 |Day 70|March 2, 2020| First Day of School; Fixed device related bugs for websites | Collaborated with my fellow intern in testing the site |
 |Day 71|March 3, 2020| Added a chatbot called tideos | Fixed bugs again |
 |Day 72|March 4, 2020| Deployed the site for testing | Fixed bugs again |
+|Day 73|March 5, 2020| Made a admin site report for number of clicks and average time watch| Fixed bugs again |
