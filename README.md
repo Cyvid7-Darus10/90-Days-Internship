@@ -87,6 +87,6 @@
 |Day 71|March 3, 2020| Added a chatbot called tideos | Fixed bugs again |
 |Day 72|March 4, 2020| Deployed the site for testing | Fixed bugs again |
 |Day 73|March 5, 2020| Made a admin site report for number of clicks and average time watch| Fixed bugs again |
-|Day 73|March 6, 2020| Made the rest api function for accepting and sending data for avatar and games | Fixed bugs again |
-|Day 73|March 7, 2020| Rest Day | :zzz: |
-|Day 73|March 8, 2020| Made accounts for testers and at the same time fixed some bugs | Bugs are related to CORS and frontend |
+|Day 74|March 6, 2020| Made the rest api function for accepting and sending data for avatar and games | Fixed bugs again |
+|Day 75|March 7, 2020| Rest Day | :zzz: |
+|Day 76|March 8, 2020| Made accounts for testers and at the same time fixed some bugs | Bugs are related to CORS and frontend |
