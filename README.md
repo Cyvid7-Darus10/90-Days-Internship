@@ -90,3 +90,4 @@
 |Day 74|March 6, 2020| Made the rest api function for accepting and sending data for avatar and games | Fixed bugs again |
 |Day 75|March 7, 2020| Rest Day | :zzz: |
 |Day 76|March 8, 2020| Made accounts for testers and at the same time fixed some bugs | Bugs are related to CORS and frontend |
+|Day 77|March 9, 2020| Integrated Vimeo Livestream to site and added changes | Autoplay audio in website was added |
