@@ -91,3 +91,8 @@
 |Day 75|March 7, 2020| Rest Day | :zzz: |
 |Day 76|March 8, 2020| Made accounts for testers and at the same time fixed some bugs | Bugs are related to CORS and frontend |
 |Day 77|March 9, 2020| Integrated Vimeo Livestream to site and added changes | Autoplay audio in website was added |
+|Day 78|March 10, 2020| Created a livestream view | Fixed bugs related to frontend |
+|Day 79|March 11, 2020| Changed the design related to background pages | Added more fixes |
+|Day 80|March 12, 2020| Added a notification when the livestream is in all pages | changed the position of the chat |
+|Day 81|March 13, 2020| Site testing for bugs | Bug fixing; found out that mozilla and safari has delay when doing ajax |
+|Day 82|March 13, 2020| Another simulation for the site | Bug fixing |
