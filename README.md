@@ -96,3 +96,6 @@
 |Day 80|March 12, 2020| Added a notification when the livestream is in all pages | changed the position of the chat |
 |Day 81|March 13, 2020| Site testing for bugs | Bug fixing; found out that mozilla and safari has delay when doing ajax |
 |Day 82|March 13, 2020| Another simulation for the site | Bug fixing |
+|Day 83|March 14, 2020| Another sudden changed of assets | Bug fixing |
+|Day 84|March 15, 2020| First day deployement | Luckily no real problem |
+|Day 85|March 16, 2020| Second day of Event, optimized the site by compressing Images, css, js | Bug fixing and added on the spot feature |
