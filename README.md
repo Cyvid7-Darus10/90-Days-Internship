@@ -98,4 +98,7 @@
 |Day 82|March 13, 2020| Another simulation for the site | Bug fixing |
 |Day 83|March 14, 2020| Another sudden changed of assets | Bug fixing |
 |Day 84|March 15, 2020| First day deployement | Luckily no real problem |
-|Day 85|March 16, 2020| Second day of Event, optimized the site by compressing Images, css, js | Bug fixing and added on the spot feature |
+|Day 85|March 16, 2020| Second day deployment | There were a lot of changes to assets |
+|Day 86|March 17, 2020| Third day of event | The site crashed so we added cloud flare and optimized the site |
+|Day 87|March 18, 2020| Last day of Event | Event was successful and didn't crashed |
+|Day 88|March 19, 2020| Rest day and catching up to my school works | Was promoted to become a Junior Software Developer |
